@@ -1,0 +1,5 @@
+Backend/bin/
+Backend/obj/
+FrontEnd/bin/
+FrontEnd/obj/
+.vs/
